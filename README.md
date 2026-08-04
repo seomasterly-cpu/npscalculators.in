@@ -8,6 +8,9 @@ The goal of this project is to make retirement planning easier by providing simp
 
 https://npscalculators.in/
 
+<img width="1024" height="792" alt="NPS Calculator for India" src="https://github.com/user-attachments/assets/4520fb49-de5e-4693-b1c5-addaeee70471" />
+
+
 ## Features
 
 - NPS Calculator
